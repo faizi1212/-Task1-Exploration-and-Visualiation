@@ -1,4 +1,4 @@
-# -Task1-Exploration-and-Visualiation
+# Task1-Exploration-and-Visualiation
 
 Overview This project focuses on loading, inspecting, and visualizing the famous Iris dataset using Python libraries such as pandas, seaborn, and matplotlib. The goal is to understand the dataset structure, visualize relationships, and detect outliers.
 
